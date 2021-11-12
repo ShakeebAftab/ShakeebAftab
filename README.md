@@ -12,10 +12,10 @@ Javascript, Typescript, Node JS, Express JS, React, React Native, Rest and Graph
 ## More about me
 👩‍💻 I'm currently working on making a Postman Clone
 
-🧠 I'm currently learning python and flask
+🧠 I'm currently learning Python and Flask
 
 👯‍♀️ I'm looking to collaborate on anything that uses React
 
 😄 Pronouns He/Him
 
-⚡️ People think I'm Sheldon from big bang theory
+⚡️ People think I'm Sheldon from Big Bang Theory
