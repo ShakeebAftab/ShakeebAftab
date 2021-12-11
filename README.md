@@ -12,7 +12,7 @@ Javascript, Typescript, Node JS, Express JS, React, React Native, Rest and Graph
 ## More about me
 👩‍💻 I'm currently working on making a Cloud Drive
 
-🧠 I'm currently learning Python and Flask
+🧠 I'm currently learning Docker
 
 👯‍♀️ I'm looking to collaborate on anything that uses React
 
