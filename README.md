@@ -23,7 +23,8 @@ Learning new skills and creating things are two things that make me happy. Hence
 
 #
 
- <summary><h3>👨‍💻 Coding Journey</h3></summary>
+### 👨‍💻 Coding Journey
+
 What does a problem solver do in this world? Well, I'm hoping a lot of things but I chose to become a software engineer: to let my inner problem solver get a boost of dopamine while building something that can be useful to the world.
 <br/>
 <br/>
