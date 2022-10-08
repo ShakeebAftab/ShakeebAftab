@@ -2,8 +2,6 @@
 
 **`Problem Solver By Heart (Software Engineer In Official Terms)`**
 
-Learning new skills and creating things are two things that make me happy. Hence, for me being a developer carries a much greater significance. I have thought myself to code and I have created projects that help me in my daily life.
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
